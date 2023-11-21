@@ -59,5 +59,5 @@ loggia          - наличие лоджии\
 ceiling_height  - высота потолков\
 closed_yard     - закрытый двор\
 longitude       - долгота объекта\
-latitude        - широта объекта\
+latitude        - широта объекта
 - Для оценки используется аналогичный csv, но без sold_price
